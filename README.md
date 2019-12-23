@@ -5,5 +5,7 @@
 
 ## Dataset
 Kitti odometry
+
 odometry data set (grayscale, 22 GB)
+
 http://www.cvlibs.net/datasets/kitti/eval_odometry.php
